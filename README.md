@@ -16,14 +16,14 @@ Loaders to webpack img, css, etc
 
 Import the BD "react-php.sql" included here
 
-Npm install
-
+``` bash
+$ Npm install
+```
 # Bd Config 
 
 You should config the file "conf/data.php" to connect your BD
 
 # USE IT :D
 
-
-
-
+# My website
+https://angelarchboldweb.now.sh/
