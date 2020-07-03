@@ -6,12 +6,12 @@ Login system using Reack Hooks to practice a conection MYSQL with Php
 Sistema de login usando React Hooks para practicar una conexion MYSQL con Php
 
 # Frameworks and tools
-Webpack
-Babel
-Axios
-Mdi icons
-Tailwind
-Loaders to webpack img, css, etc
+Webpack,
+Babel,
+Axios,
+Mdi icons,
+Tailwind,
+Loaders to webpack, img, css, etc
 # How to use 
 
 Import the BD "react-php.sql" included here
